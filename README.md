@@ -120,3 +120,7 @@ Subscribes to all topics above and turns them into a four-slide teaching display
 - Add a single hardware overview diagram.
 - Add one end-to-end setup guide with screenshots.
 - Add troubleshooting for "no data on display", "MQTT connected but no graph", and "time_valid is false".
+
+## License
+
+- Project license: [MIT](./LICENSE)
