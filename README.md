@@ -30,6 +30,12 @@ flowchart LR
 | Window-side light publisher | `M5NanoC6-BH1750-MQTT` | `/Users/tomato/Documents/Arduino/M5NanoC6-BH1750-MQTT` |
 | Teaching display | `M5PaperS3-LuxEnv-Slides` | `/Users/tomato/Documents/Arduino/M5PaperS3-LuxEnv-Slides` |
 
+GitHub repositories:
+
+- [omiya-bonsai/atomS3Lite_w_env4](https://github.com/omiya-bonsai/atomS3Lite_w_env4)
+- [omiya-bonsai/M5NanoC6-BH1750-MQTT](https://github.com/omiya-bonsai/M5NanoC6-BH1750-MQTT)
+- [omiya-bonsai/M5PaperS3-LuxEnv-Slides](https://github.com/omiya-bonsai/M5PaperS3-LuxEnv-Slides)
+
 ## Topic Map
 
 The current integrated topic set is:
