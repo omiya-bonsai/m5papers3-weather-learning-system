@@ -15,7 +15,7 @@
 
 動作の様子を動画にして YouTube にアップしました。
 
-- [YouTube: System demo](https://youtu.be/j70QptzSllY)
+[![Watch the demo](https://img.youtube.com/vi/j70QptzSllY/maxresdefault.jpg)](https://youtu.be/j70QptzSllY)
 
 ## システム全体像
 
