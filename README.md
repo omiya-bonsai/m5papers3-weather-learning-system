@@ -13,6 +13,10 @@ This repository is the integration hub for a small weather-learning system built
 The goal is not fully automatic weather prediction.  
 The goal is to help a learner observe pressure, humidity, and light changes, then think: "Is rain getting closer?"
 
+Demo video:
+
+- [YouTube: System demo](https://youtu.be/j70QptzSllY)
+
 ## System Overview
 
 ```mermaid
